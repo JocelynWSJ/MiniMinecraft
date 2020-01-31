@@ -1,0 +1,65 @@
+----------------------------------------------------------Milestone 3----------------------------------------------------------------
+Zelong Zhang:
+2019-12-02 13:00: I read the Minecraft biomes wiki on: https://minecraft.gamepedia.com/Biome
+
+-------------------------------------------------------------------------------------------------------------------------------------
+Shijia Wang
+1. Day and Night Circle
+http://www.minecraftguides.org/day-night-cycle/
+https://minecraft.gamepedia.com/Day-night_cycle
+
+Example:
+https://www.youtube.com/watch?v=WksRNGVKqP0
+https://www.youtube.com/watch?v=X87BqT0Koho
+https://www.youtube.com/watch?v=SMq4qDejTBY
+
+-------------------------------------------------------------------------------------------------------------------------------------
+Zijing Peng: 
+2019-12-03 15:00: materials related to minecraf rain, snow, and thunderstorm
+https://minecraft.gamepedia.com/Rain
+https://minecraft.gamepedia.com/Snow
+https://minecraft.gamepedia.com/Thunderstorm
+
+
+----------------------------------------------------------Milestone 2----------------------------------------------------------------
+Zelong Zhang:
+2019-11-24 15:30: I learned about L-system and turtle graphics on the following websites:
+https://en.wikipedia.org/wiki/L-system
+https://en.wikipedia.org/wiki/Turtle_graphics
+http://nolandc.com/sandbox/fractals/
+http://www.kevs3d.co.uk/dev/lsystems/
+https://goplay.space/#61SJKVrWwj
+
+-------------------------------------------------------------------------------------------------------------------------------------
+Shijia Wang:
+
+1. About Color Overlay
+https://en.wikipedia.org/wiki/Alpha_compositing
+
+2. About multithread
+https://www.toptal.com/qt/qt-multithreading-c-plus-plus
+
+-------------------------------------------------------------------------------------------------------------------------------------
+Zijing Peng:
+
+2019-11-22 18:30:
+Alpha blending:
+https://learnopengl.com/Advanced-OpenGL/Blending
+https://www.khronos.org/opengl/wiki/Transparency_Sorting
+
+----------------------------------------------------------Milestone 1----------------------------------------------------------------
+Zelong Zhang:
+I did not use external resources or otherwise receive help.
+
+-------------------------------------------------------------------------------------------------------------------------------------
+Shijia Wang:
+1. About Collision detection
+https://aotu.io/notes/2017/02/16/2d-collision-detection/index.html
+https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection
+
+2. Minecraft gameplay
+https://www.youtube.com/watch?v=bUudx1cPiAA
+
+-------------------------------------------------------------------------------------------------------------------------------------
+Zijing Peng:
+2019-10-24 06:00pm: I received a warning: https://stackoverflow.com/questions/1564937/gcc-warning-will-be-initialized-after/4467690
