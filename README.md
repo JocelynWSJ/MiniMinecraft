@@ -1,5 +1,7 @@
 MiniMinecraft
 ======================
+It is an interactive 3D world exploration and alteration program in the style of the popular computer game Minecraft. We worked in group of three. 
+
 https://www.youtube.com/watch?v=UM3sVK046Ks
 
 https://www.bilibili.com/video/BV1AE411J7rR
@@ -25,8 +27,10 @@ bool MyGL::HerizCollisionDetect(glm::vec3 pos, glm::vec3 movetrend);
 bool MyGL::VertCollisionDetect(glm::vec3 pos, glm::vec3 movetrend);
 In the flying mode, only horizontal detection is needed. And in the other condition, detection of both direction are needed.
 
+
 **Multithreaded Terrain Generation**
 1. Adding multithreading functionality to prevent the gameplay from slowing down when new terrain is generated to expand the world. Adding Worker class to complete FBM calculation in each thread.
+
 
 **Day and night cycle**
 
